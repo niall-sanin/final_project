@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"> </script>
+    <link rel="stylesheet" href="css/mapstyles.css">
+
+    <title>Map of Newly Naturalized US Citizens in 2015</title>
+</head>
+<body>
+    <div class="container">
+         <div class="row col-md-12">
+            <h1>Map of Newly Naturalized US Citizens in 2015</h1>
+            <p>591,663 new citizens naturalized in 49 metropolitan areas.</p>
+            <p>Click a state to see metropolitan areas that naturalized new citizens.</p>
+            <p>Click a marker to see individual statistics.</p>
+            <p>Source:
+              <a href="https://www.dhs.gov/immigration-statistics/naturalizations">Naturalizations 2015 Data Tables</a>, U.S. Department of Homeland Security.</p>
+
+
+        </div>
+        <div class="row col-md-12 col-lg-12">
+            <div id="mobilecontain"><div id="map"></div></div>
+        </div>
+
+
+        <script src="js/us-states.js"></script>
+        <script src="js/cities.json"></script>
+
+
+        <script src="js/mapNewCitizens.js"></script>
+        <script src="js/jquery-2.1.4.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </div>
+</body>
+</html>

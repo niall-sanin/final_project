@@ -1,0 +1,33 @@
+cities = [
+
+  {
+    "city": "New York City",
+    "lat": 40.7128,
+    "lng": -74.0059,
+    "numberCitizens": "113,758"
+  },
+  {
+    "city": "Miami",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "numberCitizens": "53,448"
+  },
+  {
+    "city": "Jacksonville",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "numberCitizens": "2,363"
+  },
+  {
+    "city": "Orlando",
+    "lat": 28.5383,
+    "lng": -81.3792,
+    "numberCitizens": "8,297"
+  },
+  {
+    "city": "Tampa",
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "numberCitizens": "6,755"
+  }
+]
