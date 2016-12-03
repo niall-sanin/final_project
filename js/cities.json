@@ -29,5 +29,203 @@ cities = [
     "lat": 27.9506,
     "lng": -82.4572,
     "numberCitizens": "6,755"
+  },
+
+  {
+    "city": "San Diego",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "numberCitizens": "14,189"
+  },
+  {
+    "city": "San Jose",
+    "lat": 37.3382,
+    "lng": -121.8863,
+    "numberCitizens": "10,904"
+  },
+  {
+    "city": "Sacramento",
+    "lat": 38.5816,
+    "lng": -121.4944,
+    "numberCitizens": "6,710"
+  },
+  {
+    "city": "Oxnard",
+    "lat": 34.1975,
+    "lng": -119.1771,
+    "numberCitizens": "2,409"
+  },
+  {
+    "city": "Bakersfield",
+    "lat": 35.3733,
+    "lng": -119.0187,
+    "numberCitizens": "2,148"
+  },
+
+  {
+    "city": "Stockton",
+    "lat": 37.9577,
+    "lng": -121.2908,
+    "numberCitizens": "2,025"
+  },
+  {
+    "city": "Fresno",
+    "lat": 36.7468,
+    "lng": -119.7726,
+    "numberCitizens": "2,668"
+  },
+  {
+    "city": "Riverside",
+    "lat": 33.9533,
+    "lng": -117.3962,
+    "numberCitizens": "13,695"
+  },
+  {
+    "city": "San Francisco",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "numberCitizens": "20,620"
+  },
+  {
+    "city": "Los Angeles",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "numberCitizens": "69,017"
+  },
+  {
+    "city": "San Juan",
+    "lat": 18.4655,
+    "lng": -66.1057,
+    "numberCitizens": "2,591"
+  },
+  {
+    "city": "El Paso",
+    "lat": 31.7619,
+    "lng": -106.4850,
+    "numberCitizens": "2,720"
+  },
+  {
+    "city": "Houston",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "numberCitizens": "25,735"
+  },
+  {
+    "city": "San Antonio",
+    "lat": 29.4241,
+    "lng": -98.4936,
+    "numberCitizens": "3,606"
+  },
+  {
+    "city": "Austin",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "numberCitizens": "4,010"
+  },
+  {
+    "city": "Dallas",
+    "lat": 32.7767,
+    "lng": -96.7970,
+    "numberCitizens": "19,626"
+  },
+
+  {
+    "city": "Phoenix",
+    "lat": 33.4484,
+    "lng": -112.0740,
+    "numberCitizens": "9,767"
+  },
+  {
+    "city": "Tucson",
+    "lat": 32.2217,
+    "lng": -110.9265,
+    "numberCitizens": "2,011"
+  },
+  {
+    "city": "Chicago",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "numberCitizens": "24,201"
+  },
+  {
+    "city": "Honolulu",
+    "lat": 21.3069,
+    "lng": -157.8583,
+    "numberCitizens": "2,755"
+  },
+  {
+    "city": "Bridgeport",
+    "lat": 41.1865,
+    "lng": -73.1952,
+    "numberCitizens": "3,825"
+  },
+  {
+    "city": "Hartford",
+    "lat": 41.7637,
+    "lng": -72.6851,
+    "numberCitizens": "3,231"
+  },
+  {
+    "city": "Worcester",
+    "lat": 42.2626,
+    "lng": -71.8023,
+    "numberCitizens": "2,463"
+  },
+  {
+    "city": "Boston",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "numberCitizens": "18,385"
+  },
+  {
+    "city": "Columbus",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "numberCitizens": "3,668"
+  },
+  {
+    "city": "Cleveland",
+    "lat": 41.4993,
+    "lng": -81.6944,
+    "numberCitizens": "2,027"
+  },
+  {
+    "city": "Kansas City",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "numberCitizens": "2,354"
+  },
+  {
+    "city": "Saint Louis",
+    "lat": 38.6270,
+    "lng": -90.1994,
+    "numberCitizens": "2,104"
+  },
+  {
+    "city": "Atlanta",
+    "lat": 33.7490,
+    "lng": -84.3880,
+    "numberCitizens": "17,105"
+  },
+  {
+    "city": "Washington DC",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "numberCitizens": "27,084"
+  },
+  {
+    "city": "Philadelphia",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "numberCitizens": "12,566"
+  },
+
+  {
+    "city": "Seattle",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "numberCitizens": "10,119"
   }
+
+
 ]

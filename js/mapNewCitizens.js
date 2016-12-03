@@ -15,13 +15,6 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 }).addTo(map);
 
 
-var markerIcon = L.icon({
-    iconUrl: 'images/marker.png',
-
-    iconSize: [20, 30],
-});
-
-
 
 function style(feature) {
     return {
@@ -47,9 +40,6 @@ function highlightFeature(e) {
         fillOpacity: 0.7
     });
 
-    if (!L.Browser.ie && !L.Browser.opera) {
-        layer.bringToFront();
-    }
     info.update(layer.feature.properties);
 
 }
@@ -98,11 +88,10 @@ info.addTo(map);
 
 var markers = new L.layerGroup();
 
-
 function populate() {
     for (var i = 0; i < cities.length; ++i) {
-        var marker = L.marker([cities[i].lat, cities[i].lng], { icon: markerIcon })
-        .bindPopup('<h3><center>' + cities[i].city + '</center></h3><br>' + cities[i].numberCitizens + ' citizens<br>').addTo(map);
+        var marker = L.marker([cities[i].lat, cities[i].lng])
+        .bindPopup('<h3><center>' + cities[i].city + '</center></h3>' + cities[i].numberCitizens + ' new citizens').addTo(map);
         markers.addLayer(marker);
     }
     return false;
