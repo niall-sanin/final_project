@@ -5,3 +5,7 @@ This week, I believe that I was able to get the basic foundation of this project
 Week 2:
 
 This week, I was able to continue working on my map project. As of this writing, I’ve been able to add 12 U.S. states, the District of Columbia, and the U.S. territory of Puerto Rico. I’ve also added all the corresponding metropolitan areas that are located in the aforementioned areas.  Although I have much left to do, I believe that I’ve been making good progress and I believe that I’ll have all the remaining U.S. states and metropolitan areas completed and presented on the map by the conclusion of Week 3.
+
+Week 3:
+
+This week, I was able to finish working on my map project. As of this writing, I have successfully added the rest of the remaining U.S. states. I’ve also added the remaining metropolitan areas that were gained from my dataset from the U.S. Department of Homeland Security. I’m satisfied with the progress I’ve made on this project and I’m happy to have finished the map project on time.
